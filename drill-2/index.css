@@ -1,0 +1,66 @@
+
+.solid {
+    border: 5px solid black;
+    height: 300px;
+}
+
+.rec {
+    position: relative;
+    background-color: purple;
+    height: 125px;
+    width: 50px;
+    top: 150px;
+    left: 30px;
+}
+
+.big-rec {
+    position: relative;
+    background-color: green;
+    height: 200px;
+    width: 300px;
+    left: 100px;
+    top: -50px;
+}
+.circle {
+    position: relative;
+    height: 250px;
+    width: 250px;
+    background-color: cyan;
+    border-radius: 50%;
+    display: inline-block;
+    top: -300px;
+    left: 450px
+}
+
+.dotted {
+    position: relative;
+    border: dotted black;
+    height: 250px;
+    top: 50px;
+}
+
+.creamRec {
+    position: relative;
+    background-color: grey;
+    margin: auto;
+    height: 200px;
+    top: 30px;
+    width: 1000px;
+    bottom: 30px;
+    box-shadow: 5px 10px rgb(0, 0, 0);
+}
+
+.textbox {
+    position: relative;
+    color: blue;
+    height: 200px;
+    top: 100px;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    background-color: whitesmoke;
+    box-shadow: 5px 10px black;
+    width: 550px;
+    letter-spacing: 25px;
+}
